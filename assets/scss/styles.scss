@@ -1,0 +1,23 @@
+$colors:(white, black, white, black, white, black, white, black, black, white, black, white, black, white, black, white, white, black, white, black, white, black, white, black, black, white, black, white, black, white, black, white, white, black, white, black, white, black, white, black, black, white, black, white, black, white, black, white, white, black, white, black, white, black, white, black, black, white, black, white, black, white, black, white,);
+$boardwidth: 89%;
+
+body{
+  background-color: red;
+}
+
+@for $i from 1 through length($colors){
+ .tile:nth-of-type(#{$i}) {
+     background-color: nth($colors, $i);
+ }
+ }
+.table{
+  width: $boardwidth/2;
+  background-color: gray;
+  margin: 5% 25%;
+  .tile{
+    width: 75px;
+    height: 75px;
+    display: inline-block;
+    margin: 0;
+  }
+  }

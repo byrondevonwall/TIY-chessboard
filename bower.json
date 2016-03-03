@@ -1,0 +1,27 @@
+{
+  "name": "TIY-chessboard",
+  "authors": [
+    "Byron Wall <byrondevonwall@gmail.com>"
+  ],
+  "description": "chessboard(non-interactive)",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "tiy",
+    "homework",
+    "chess"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "font-awesome": "^4.5.0"
+  }
+}

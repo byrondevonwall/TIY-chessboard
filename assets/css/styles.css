@@ -1,206 +1,222 @@
 body {
-  background-color: red; }
+  background-color: green; }
 
 .tile:nth-of-type(1) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(2) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(3) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(4) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(5) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(6) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(7) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(8) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(9) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(10) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(11) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(12) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(13) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(14) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(15) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(16) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(17) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(18) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(19) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(20) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(21) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(22) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(23) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(24) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(25) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(26) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(27) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(28) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(29) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(30) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(31) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(32) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(33) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(34) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(35) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(36) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(37) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(38) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(39) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(40) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(41) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(42) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(43) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(44) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(45) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(46) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(47) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(48) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(49) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(50) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(51) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(52) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(53) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(54) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(55) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(56) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(57) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(58) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(59) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(60) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(61) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(62) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .tile:nth-of-type(63) {
-  background-color: black; }
+  background-color: lightslategrey; }
 
 .tile:nth-of-type(64) {
-  background-color: white; }
+  background-color: lightsteelblue; }
 
 .table {
-  width: 44.5%;
+  width: 42%;
   background-color: gray;
-  margin: 5% 25%; }
+  margin: 5% 28% 0 28%; }
   .table .tile {
     width: 75px;
     height: 75px;
     display: inline-block;
-    margin: -1; }
+    margin: -2px;
+    text-align: center; }
+    .table .tile .placemark-h {
+      color: blue;
+      z-index: 2;
+      position: absolute;
+      margin: 2px 5px 2px -35px; }
+    .table .tile .placemark-v {
+      color: blue;
+      z-index: 2;
+      position: absolute;
+      margin: 55px 0 0 25px; }
+    .table .tile .p {
+      position: absolute;
+      z-index: 1;
+      font-size: 3em;
+      margin: 0 0 0 -22px; }
 
 /*# sourceMappingURL=styles.css.map */
